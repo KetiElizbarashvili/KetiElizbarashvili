@@ -1,4 +1,4 @@
-![Alt Text](relative/path/to/ezgif.com-video-to-gif (17).gif)
+![Alt Text](relative/path/to/ezgif.com-video-to-gif%20%2817%29.gif)
 
 
 # 💻 Tech Stack:
