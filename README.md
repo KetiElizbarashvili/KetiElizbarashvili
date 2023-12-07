@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 3D Portfolio <br>🌱 I’m currently learning React Native<br>💬 Ask me about Solidity/Smart Contracts<br>
+🔭 I’m currently working on Ethereum Smart Contract <br>🌱 I’m currently learning React Native<br>💬 Ask me about Solidity/Smart Contracts<br>
 
 
 ## 🌐 Socials:
