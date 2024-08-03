@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I'm Keto Elizbarashvili, a tech enthusiast and creative problem-solver with a knack for building innovative web applications. With a solid foundation in economics and a passion for coding, I've transitioned from crunching numbers to crafting seamless user experiences. Whether it's front-end wizardry with React or back-end magic with Node.js, I love diving into new challenges and pushing the boundaries of what's possible. Outside of coding, you'll find me sharing knowledge as a tutor, exploring the world through my camera lens, or creating abstract art.
+I'm Keti Elizbarashvili, a tech enthusiast and creative problem-solver with a knack for building innovative web applications. With a solid foundation in economics and a passion for coding, I've transitioned from crunching numbers to crafting seamless user experiences. Whether it's front-end wizardry with React or back-end magic with Node.js, I love diving into new challenges and pushing the boundaries of what's possible. Outside of coding, you'll find me sharing knowledge as a tutor, exploring the world through my camera lens, or creating abstract art.
 
 ## Education
 
