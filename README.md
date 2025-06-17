@@ -2,5 +2,4 @@ Currently, I am contributing to a cutting-edge Chinese crypto exchange, where I 
 
 In addition, I serve as a Software Developer at Bitasmbl, an AI-powered platform dedicated to helping junior developers bridge the gap between theory and real-world experience. We provide personalized AI assistance, enabling emerging talent to gain hands-on experience and elevate their skills in a supportive, practical environment.
 
- 
-
+I also have a passion for education, which I express as a Front-End Lecturer at Mziuri Programming School, where I teach the next generation of developers. Previously, I lectured on Algorithmics at Global, covering Python and JavaScript. My career also includes roles as a Front-End Developer at Zolobet Casino, a React Developer at Own Foundation, a Back-End Developer Lecturer at Educity, and a Back-End Developer at Doer. Each experience has strengthened my understanding of both development and teaching, enabling me to inspire others while continuing to grow in my own career.
