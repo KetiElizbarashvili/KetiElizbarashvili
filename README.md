@@ -1,3 +1,5 @@
+Part of the [**Meama-DEV**](https://github.com/Meama-DEV) projects.
+
 I now serve as an Software Developer at Meama, developing intelligent solutions that bridge the gap between innovation and real-world applications, and as a Software Engineer at Blackbox, where I build innovative software solutions.
 I previously contributed to a cutting-edge Chinese crypto exchange, where I built secure, scalable, and efficient systems that empowered users and drove the future of cryptocurrency.
 
