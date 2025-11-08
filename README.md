@@ -1,4 +1,4 @@
-Part of the [**Meama-DEV**](https://github.com/Meama-DEV) projects.
+Lead of the [**Meama-DEV**](https://github.com/Meama-DEV) projects.
 
 I now serve as a Software Developer at Meama, developing intelligent solutions that bridge the gap between innovation and real-world applications, and as a Software Engineer at Blackbox, where I build innovative software solutions. I also contribute as a Developer at Helpy, further expanding my expertise in creating impactful software solutions.
 
