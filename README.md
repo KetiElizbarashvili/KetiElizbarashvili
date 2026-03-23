@@ -1,6 +1,6 @@
-Lead of the [**Meama-DEV**](https://github.com/Meama-DEV) projects.
+I currently work as a Full-Stack & DevOps Engineer at Nestlé, where I contribute to building scalable systems and modern infrastructure solutions. In parallel, I serve as a DevOps Engineer at Optimo Group, focusing on infrastructure automation, system reliability, and efficient deployment pipelines.
 
-I now serve as a Software Developer/Tech Lead at Meama, developing intelligent solutions that bridge the gap between innovation and real-world applications, and as a Software Engineer at Blackbox, where I build innovative software solutions. I also contribute as a Developer at Helpy, further expanding my expertise in creating impactful software solutions.
+Previously, I served as a Software Developer / Tech Lead at Meama, where I developed intelligent solutions that bridged innovation with real-world applications. I also worked as a Software Engineer at Blackbox, building innovative software solutions, and as a Developer at Helpy, expanding my expertise in impactful product development.
 
 I previously contributed to a cutting-edge Chinese crypto exchange, where I built secure, scalable, and efficient systems that empowered users and drove the future of cryptocurrency.
 
