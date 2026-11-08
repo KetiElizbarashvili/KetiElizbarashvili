@@ -1,8 +1,17 @@
 <div align="center">
 
-<a href="https://www.ketielizbarashvili.com">
-  <img src="assets/showcase.gif" alt="Keti Elizbarashvili — AI Product Engineer" width="100%" />
-</a>
+<a href="https://www.ketielizbarashvili.com"><img src="assets/01-ai-product-engineer.jpg" alt="Keti Elizbarashvili — AI Product Engineer" width="100%" /></a>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/02-ai-development.jpg" alt="AI Development & Integration" width="100%" /></td>
+    <td width="50%"><img src="assets/03-full-stack-work.jpg" alt="Full-Stack Web Development" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/04-devops-cloud.jpg" alt="DevOps & Cloud Engineering" width="100%" /></td>
+    <td width="50%"><img src="assets/05-mobile-apps.jpg" alt="Mobile App Development" width="100%" /></td>
+  </tr>
+</table>
 
 <br/>
 
