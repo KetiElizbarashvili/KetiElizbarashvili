@@ -41,16 +41,7 @@ I take a business problem, shape it into a product, and ship it to production, c
 
 → [See all projects & iOS apps](https://www.ketielizbarashvili.com/products)
 
-### Stack
-
-![React](https://img.shields.io/badge/React-0b0b0b?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-0b0b0b?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0b?style=flat-square&logo=typescript) ![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=flat-square&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-0b0b0b?style=flat-square&logo=redis) ![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0b0b0b?style=flat-square&logo=kubernetes) ![AWS](https://img.shields.io/badge/AWS-0b0b0b?style=flat-square&logo=amazonwebservices) ![Shopify](https://img.shields.io/badge/Shopify-0b0b0b?style=flat-square&logo=shopify)
-
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KetiElizbarashvili/KetiElizbarashvili/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/KetiElizbarashvili/KetiElizbarashvili/output/github-snake.svg" />
-</picture>
 
 <div align="center">
 <sub>Open to new roles & product work — <a href="mailto:ketielizbarashvilidev@gmail.com">let's talk</a></sub>
