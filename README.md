@@ -1,6 +1,7 @@
 <div align="center">
 
-<a href="https://www.ketielizbarashvili.com"><img src="assets/01-ai-product-engineer.jpg" alt="Keti Elizbarashvili — AI Product Engineer" width="100%" /></a>
+
+
 
 <table>
   <tr>
